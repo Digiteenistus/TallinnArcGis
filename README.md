@@ -9,6 +9,9 @@ Fetch data after every 6 hours from: <br />
 
 Send data to Azure Events hub.
 
+# Development environment setup
+Run `npm install` in 'backend' directory<br>
+
 # Docker
 ### Build container
 ```
